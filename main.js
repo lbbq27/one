@@ -4,6 +4,6 @@ let titleD= document.getElementById("title")
 
 titleD.innerHTML="Epale pana"
 
-let name= "laura Parrilla"
+let name= "pepe lopetete"
 
 console.log(name)
