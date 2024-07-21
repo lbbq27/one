@@ -7,3 +7,5 @@ titleD.innerHTML="Epale pana"
 let name= "pepe lopetete"
 
 console.log(name)
+
+let number= 5
