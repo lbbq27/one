@@ -7,3 +7,8 @@
 body{
     background-color: lightcoral;
 }
+
+.paragraph{
+    font-weight: bold;
+    color: aliceblue;
+}
